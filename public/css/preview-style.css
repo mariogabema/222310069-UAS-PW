@@ -1,0 +1,49 @@
+body {
+    background-color: #141218;
+    color: white;
+    font-family: Roboto;
+}
+
+.navbar {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbar span {
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.konten .pw {
+    font-size: 32px;
+    background-color: #FFF8F3;
+    color: black;
+    margin-top: 50px;
+}
+
+.text {
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+
+.preview {
+    background-color: #FFF8F3;
+    color: black;
+    margin-top: 50px;
+}
+
+.text .btn {
+    font-size: 24px;
+    color: #FFF8F3;
+    margin-left: 50px;
+    border: none;
+}
+
+.title img{
+    margin-right: 20px;
+}
+
+.footer {
+    margin-top: 150px;
+}

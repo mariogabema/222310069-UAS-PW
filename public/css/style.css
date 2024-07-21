@@ -1,0 +1,56 @@
+body {
+    background-color: #141218;
+    color: #FFF8F3;
+    font-family: Roboto;
+}
+
+.navbar {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbar span {
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.navbar .btn {
+    color: #FFF8F3;
+}
+
+.jumbotron .text {
+    line-height: 72px;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.jumbotron p {
+    font-size: 27px;
+}
+
+.jumbotron hr {
+    color: yellow;
+}
+
+.kategori h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.kategori .ppb {
+    font-size: 32px;
+    background-color: #FFF8F3;
+    color: black;
+    margin-top: 50px;
+}
+
+.kategori .pw {
+    font-size: 32px;
+    background-color: #FFF8F3;
+    color: black;
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 200px;
+}
